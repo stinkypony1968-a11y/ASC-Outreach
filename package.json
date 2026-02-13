@@ -1,0 +1,12 @@
+{
+  "name": "asc-workspace",
+  "version": "1.0.0",
+  "description": "Alaska Stroke Coalition Train-the-Trainer Workspace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
